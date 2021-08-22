@@ -1,0 +1,15 @@
+.box{
+    margin-left: 170px;
+    border: 1px solid black;
+    box-sizing: content-box;  
+    width: 500px;
+    height: 350px;
+    box-shadow: 5px 5px #888888;
+    border-radius: 25px;
+padding-left: 250px;
+font-size: 23px;
+background-color: #8281f3;
+color: whitesmoke;
+
+     
+}
